@@ -4,7 +4,7 @@
 ---
 
 ## 🔗 Repository Link
-👉 https://github.com/Tanyakesharwani09/Aarogya-Ai  
+👉 https://github.com/PranshuGupta28/AarogyaAi  
 
 ---
 
@@ -94,7 +94,7 @@ AAROGYA-AI/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/Tanyakesharwani09/Aarogya-Ai.git
+git clone https://github.com/PranshuGupta28/AarogyaA.git
 ```bash
 cd Aarogya-Ai
 ```
